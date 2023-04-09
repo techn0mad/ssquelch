@@ -1,0 +1,13 @@
+[credential]
+	helper = store
+	username = techn0mad
+[user]
+        email = lgadallah@gmail.com
+        name = Larry Gadallah
+[init]
+        defaultBranch = main
+[pull]
+        rebase = false
+[core]
+        excludesfile = /Users/lgadalla/.gitignore_global
+	editor = /usr/local/bin/emacsclient --alternate-editor=\"\" -c --no-wait
